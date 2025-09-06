@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Muhammad Bilal Ahsan
 
-<!--
-**the-bilal-ahsan/the-bilal-ahsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend-Focused MERN Stack Developer | 4 Years of Experience**  
 
-Here are some ideas to get you started:
+I specialize in **React, Redux, Tailwind, Material UI, and frontend systems**, with strong backend knowledge in **Node.js, Express, and MongoDB/SQLs**.  
+I love building **scalable, user-friendly applications** that deliver real business value.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+- **Frontend:** React, Redux, Tailwind, Material UI, Bootstrap  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Databases:** MongoDB, MySQL, PostgreSQL  
+- **Other Tools:** Git, GitHub, Postman, Vercel, Netlify  
+
+---
+
+### 🌍 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/the-bilal-ahsan/)    
+- ✉️ [Email](mailto:bilalprogrammer09@gmail.com)  
+
+
